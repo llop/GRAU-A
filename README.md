@@ -1,3 +1,6 @@
 # GRAU-A (Algorísmia)
 
-QT 2015-2016 - FIB UPC
+**A - Q1 2015-2016 - FIB UPC**
+
+Problemes del jutge + Pràctica (Hashing)
+
