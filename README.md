@@ -1,6 +1,6 @@
 # GRAU-A (Algorísmia)
 
-**A - Q1 2015-2016 - FIB UPC**
+**A - FIB UPC - Q1 2015-2016**
 
 Problemes del jutge 
 
